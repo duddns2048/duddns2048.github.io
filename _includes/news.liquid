@@ -1,4 +1,10 @@
 <div class="news">
+  {% if page.announcements.title %}
+    <h2>{{ page.announcements.title }}</h2>
+  {% else %}
+    <h2>News</h2>
+  {% endif %}
+
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
     <div
