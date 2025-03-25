@@ -144,15 +144,15 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  books:
-    output: true
-  news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: true
+# collections:
+#   books:
+#     output: true
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#   projects:
+#     output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -199,6 +199,11 @@ exclude:
   - _includes/related_posts.liquid
   - _layouts/archive.liquid
   - _plugins/external-posts.rb
+
+  - _projects/
+  - _pages/projects.md
+  - _includes/projects_horizontal.liquid
+  - _includes/projects.liquid
 keep_files:
   - CNAME
   - .nojekyll
