@@ -28,6 +28,7 @@ latest_posts:
 ---
 
 Hi, I'm Youngwoon Kim, a Master’s student at [DIPS - Deep Image Processing Lab](https://sites.google.com/view/deepiplab/) at the Graduate School Korea University, under the guidance of Prof. Seungwon Jung. I have a in artificial intelligence, computer vision, medical ai, generative models. Before this, I received my B.S. in Electrical and Electronic Engineering from Korea University. I value teamwork and believe in growing together through shared efforts.
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
