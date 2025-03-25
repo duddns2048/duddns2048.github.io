@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master's student in <a href='https://sites.google.com/view/deepiplab/'>DIP Lab</a>, Korea University
 
 profile:
   align: right
