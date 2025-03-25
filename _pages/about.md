@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Youngwoon Kim, a Master’s student at [DIPS - Deep Image Processing Lab](https://sites.google.com/view/deepiplab/) at the Graduate School Korea University, under the guidance of Prof. Seungwon Jung. I have a deep interest in artificial intelligence, computer vision, medical ai, generative models. Before this, I received my B.S. in Electrical and Electronic Engineering from Korea University. I value teamwork and believe in growing together through shared efforts.
+Hi, I'm Youngwoon Kim, a Master’s student at [DIP Lab - Deep Image Processing Lab](https://sites.google.com/view/deepiplab/) at the Graduate School Korea University, under the guidance of Prof. Seungwon Jung. I have a deep interest in artificial intelligence, computer vision, medical ai, generative models. Before this, I received my B.S. in Electrical and Electronic Engineering from Korea University. I value teamwork and believe in growing together through shared efforts.
